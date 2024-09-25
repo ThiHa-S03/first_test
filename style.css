@@ -11,12 +11,10 @@
     display: flex;
 }
 .header_links{
-   
     justify-content: flex-end;
 
 }
 #header_image{
     height:100px;
     width:100px;
-    justify-content: flex-end;
 }
