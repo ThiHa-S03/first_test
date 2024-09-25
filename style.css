@@ -1,0 +1,22 @@
+.first_div{
+    background-color: #1F2937;
+    
+    position: absolute;
+    margin-left: 10%;
+    margin-right:10%;
+    width:80%;
+    
+}
+.header{
+    display: flex;
+}
+.header_links{
+   
+    justify-content: flex-end;
+
+}
+#header_image{
+    height:100px;
+    width:100px;
+    justify-content: flex-end;
+}
